@@ -86,5 +86,4 @@ pip install requests pandas python-dotenv
 Tess Kamau
 [LinkedIn](https://linkedin.com/in/tesskamau) | [GitHub](https://github.com/Tee-ai63)
 
-
-4. Install dependencies:
+Loom video link for the tasks done : https://www.loom.com/share/813dabf62eae444bb081fff35bf082c8
